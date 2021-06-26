@@ -1,0 +1,18 @@
+{
+  "name": "nekonaq-stdapp",
+  "version": "1.0.2106",
+  "author": "nekonaq",
+  "license": "Apache-2.0",
+  "source": "https://github.com/nekonaq/puppet-stdapp",
+  "dependencies": [
+    {
+      "name": "nekonaq/std"
+    }
+  ],
+  "requirements": [
+    {
+      "name": "puppet",
+      "version_requirement": ">= 6.0.0 < 8.0.0"
+    }
+  ]
+}
